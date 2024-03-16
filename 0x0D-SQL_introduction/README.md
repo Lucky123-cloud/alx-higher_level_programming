@@ -508,5 +508,5 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x0D-SQL_introduction
 File: 16-no_link.sql
    
-Copyright © 2024 ALX, All rights reserved.
+Copyright © 2024 ALX, All rights reserved. This was copied from ALX intranet by Lucky's laptop.
 
